@@ -9,5 +9,6 @@ Make sure Browse Prefix has a valid path before using the Browse function.
 # Arken Model.Cfg Editor
 Still a work in progress and may take some time to get it into its finished state of the ideas I have.
 *The Preview window is not fully functional!*
-With the Model.Cfg Editor you can create one simple AnimClass for your model.cfg if example you have a door you want animated for a house. You can create a base Model.Cfg in the location you choose. Make Sure **Create Prefix** has a valid path, this is where the newly created base model.cfg gets saved. 
+With the Model.Cfg Editor you can create one simple *AnimClass* for your model.cfg if for example you have a door you want animated for a house. You can create a base model.Cfg in the location you choose. Make Sure **Create Prefix** has a valid path, this is where the newly created base model.cfg gets saved.
+Whatever the class is you want to edit with the editor, make sure the class is named *class AnimClass*
 *P: is default for paths in Arken*
